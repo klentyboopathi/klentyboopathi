@@ -9,7 +9,6 @@
 - 💬 Ask me about anything [here](https://github.com/klentyboopathi/klentyboopathi/issues)
 
 <br>
-<!--
 
 <p align="left">
   
@@ -29,7 +28,7 @@
   <img src="./img/jquery.png" alt="jquery" width="40" height="40"/>
   <img src="./img/java.svg" alt="java" width="40" height="40"/> 
 </p>
--->
+
 <br>
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 <p align="center">
