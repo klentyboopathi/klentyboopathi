@@ -5,7 +5,7 @@
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
-- 🌱 I’m currently **Learning** 
+- 🌱 I’m currently **Exploring** 
 - 💬 Ask me about anything [here](https://github.com/klentyboopathi/klentyboopathi/issues)
 
 <br>
